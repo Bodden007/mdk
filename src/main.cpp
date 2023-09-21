@@ -2,6 +2,14 @@
 #include <vector>
 #include "includes/detectorSerial.hpp"
 
+/**
+ * @brief
+ *
+ * @param argc
+ * @param argv
+ * @return int
+ */
+
 int main(int argc, char *argv[])
 {
     std::vector<std::string> nameSerialPort;
